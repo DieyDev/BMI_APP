@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI Tracker</string>
+
+    <string name="facebook_app_id">1370840447661422</string>
+
+    <string name="fb_login_protocol_scheme">fb1370840447661422</string>
+
+    <string name="facebook_client_token">2d1d5af298656974f761495fe2f985e9</string>
+</resources>
